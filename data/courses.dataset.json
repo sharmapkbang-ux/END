@@ -1,0 +1,977 @@
+{
+  "product_manager": [
+    {
+      "title": "IBM Product Manager Professional Certificate",
+      "provider": "Coursera (IBM)",
+      "link": "https://www.coursera.org/professional-certificates/ibm-product-manager",
+      "affiliate_url": "https://www.coursera.org/professional-certificates/ibm-product-manager",
+      "duration_text": "Approx. 3 months",
+      "price_text": "Coursera subscription",
+      "mode": "self-paced",
+      "type": "professional-certificate",
+      "tags": [
+        "product",
+        "strategy",
+        "roadmapping"
+      ]
+    },
+    {
+      "title": "Digital Product Management: Modern Fundamentals",
+      "provider": "Coursera (University of Virginia)",
+      "link": "https://www.coursera.org/learn/uva-darden-digital-product-management",
+      "affiliate_url": "https://www.coursera.org/learn/uva-darden-digital-product-management",
+      "duration_text": "4 weeks",
+      "price_text": "Coursera pricing",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "product",
+        "agile"
+      ]
+    }
+  ],
+  "data_analyst": [
+    {
+      "title": "Google Data Analytics Professional Certificate",
+      "provider": "Coursera (Google)",
+      "link": "https://www.coursera.org/professional-certificates/google-data-analytics",
+      "affiliate_url": "https://www.coursera.org/professional-certificates/google-data-analytics",
+      "duration_text": "Approx. 6 months",
+      "price_text": "Coursera subscription",
+      "mode": "self-paced",
+      "type": "professional-certificate",
+      "tags": [
+        "data",
+        "analytics",
+        "sql"
+      ]
+    },
+    {
+      "title": "IBM Data Analyst Professional Certificate",
+      "provider": "Coursera (IBM)",
+      "link": "https://www.coursera.org/professional-certificates/ibm-data-analyst",
+      "affiliate_url": "https://www.coursera.org/professional-certificates/ibm-data-analyst",
+      "duration_text": "3-6 months",
+      "price_text": "Coursera pricing",
+      "mode": "self-paced",
+      "type": "professional-certificate",
+      "tags": [
+        "python",
+        "sql",
+        "visualization"
+      ]
+    }
+  ],
+  "software_engineer": [
+    {
+      "title": "CS50's Introduction to Computer Science",
+      "provider": "Harvard / edX",
+      "link": "https://cs50.harvard.edu/x/2025/",
+      "affiliate_url": "https://cs50.harvard.edu/x/2025/",
+      "duration_text": "~12 weeks",
+      "price_text": "Free to audit",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "cs",
+        "algorithms"
+      ]
+    },
+    {
+      "title": "Algorithms, Part I",
+      "provider": "Coursera (Princeton)",
+      "link": "https://www.coursera.org/learn/algorithms-part1",
+      "affiliate_url": "https://www.coursera.org/learn/algorithms-part1",
+      "duration_text": "~6 weeks",
+      "price_text": "Free to audit",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "algorithms",
+        "data-structures"
+      ]
+    }
+  ],
+  "ux_designer": [
+    {
+      "title": "UI / UX Design Specialization",
+      "provider": "Coursera (CalArts)",
+      "link": "https://www.coursera.org/specializations/ui-ux-design",
+      "affiliate_url": "https://www.coursera.org/specializations/ui-ux-design",
+      "duration_text": "Approx. 6 months",
+      "price_text": "Coursera subscription",
+      "mode": "self-paced",
+      "type": "specialization",
+      "tags": [
+        "ux",
+        "ui",
+        "design"
+      ]
+    },
+    {
+      "title": "User Experience (UX) Research and Design Professional Certificate",
+      "provider": "edX (University of Michigan)",
+      "link": "https://www.edx.org/professional-certificate/umich-ux-research-design",
+      "affiliate_url": "https://www.edx.org/professional-certificate/umich-ux-research-design",
+      "duration_text": "Varies",
+      "price_text": "edX verified certificate price",
+      "mode": "self-paced",
+      "type": "professional-certificate",
+      "tags": [
+        "ux",
+        "research"
+      ]
+    }
+  ],
+  "machine_learning_engineer": [
+    {
+      "title": "Machine Learning",
+      "provider": "Coursera (Andrew Ng)",
+      "link": "https://www.coursera.org/learn/machine-learning",
+      "affiliate_url": "https://www.coursera.org/learn/machine-learning",
+      "duration_text": "~11 weeks",
+      "price_text": "Free to audit; certificate paid",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "machine learning",
+        "ml",
+        "algorithms"
+      ]
+    },
+    {
+      "title": "Deep Learning Specialization",
+      "provider": "Coursera (deeplearning.ai)",
+      "link": "https://www.coursera.org/specializations/deep-learning",
+      "affiliate_url": "https://www.coursera.org/specializations/deep-learning",
+      "duration_text": "Approx. 3-4 months",
+      "price_text": "Coursera subscription",
+      "mode": "self-paced",
+      "type": "specialization",
+      "tags": [
+        "deep learning",
+        "neural networks"
+      ]
+    }
+  ],
+  "devops_engineer": [
+    {
+      "title": "TODO: add verified course 1 for devops_engineer",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "devops"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 2 for devops_engineer",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "devops"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 3 for devops_engineer",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "devops"
+      ]
+    }
+  ],
+  "qa_engineer": [
+    {
+      "title": "TODO: add verified course 1 for qa_engineer",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "qa"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 2 for qa_engineer",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "qa"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 3 for qa_engineer",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "qa"
+      ]
+    }
+  ],
+  "sales_representative": [
+    {
+      "title": "TODO: add verified course 1 for sales_representative",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "sales"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 2 for sales_representative",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "sales"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 3 for sales_representative",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "sales"
+      ]
+    }
+  ],
+  "marketing_manager": [
+    {
+      "title": "TODO: add verified course 1 for marketing_manager",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "marketing"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 2 for marketing_manager",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "marketing"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 3 for marketing_manager",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "marketing"
+      ]
+    }
+  ],
+  "hr_manager": [
+    {
+      "title": "TODO: add verified course 1 for hr_manager",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "hr"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 2 for hr_manager",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "hr"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 3 for hr_manager",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "hr"
+      ]
+    }
+  ],
+  "finance_analyst": [
+    {
+      "title": "TODO: add verified course 1 for finance_analyst",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "finance"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 2 for finance_analyst",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "finance"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 3 for finance_analyst",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "finance"
+      ]
+    }
+  ],
+  "customer_success": [
+    {
+      "title": "TODO: add verified course 1 for customer_success",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "customer"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 2 for customer_success",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "customer"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 3 for customer_success",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "customer"
+      ]
+    }
+  ],
+  "project_manager": [
+    {
+      "title": "TODO: add verified course 1 for project_manager",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 2 for project_manager",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "project"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 3 for project_manager",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "project"
+      ]
+    }
+  ],
+  "business_analyst": [
+    {
+      "title": "TODO: add verified course 1 for business_analyst",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "business"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 2 for business_analyst",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "business"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 3 for business_analyst",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "business"
+      ]
+    }
+  ],
+  "security_engineer": [
+    {
+      "title": "TODO: add verified course 1 for security_engineer",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 2 for security_engineer",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 3 for security_engineer",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "security"
+      ]
+    }
+  ],
+  "cloud_architect": [
+    {
+      "title": "TODO: add verified course 1 for cloud_architect",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "cloud"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 2 for cloud_architect",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "cloud"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 3 for cloud_architect",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "cloud"
+      ]
+    }
+  ],
+  "graphic_designer": [
+    {
+      "title": "TODO: add verified course 1 for graphic_designer",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "graphic"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 2 for graphic_designer",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "graphic"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 3 for graphic_designer",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "graphic"
+      ]
+    }
+  ],
+  "content_writer": [
+    {
+      "title": "TODO: add verified course 1 for content_writer",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "content"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 2 for content_writer",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "content"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 3 for content_writer",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "content"
+      ]
+    }
+  ],
+  "recruiter": [
+    {
+      "title": "TODO: add verified course 1 for recruiter",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "recruiter"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 2 for recruiter",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "recruiter"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 3 for recruiter",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "recruiter"
+      ]
+    }
+  ],
+  "operations_manager": [
+    {
+      "title": "TODO: add verified course 1 for operations_manager",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "operations"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 2 for operations_manager",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "operations"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 3 for operations_manager",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "operations"
+      ]
+    }
+  ],
+  "it_support": [
+    {
+      "title": "TODO: add verified course 1 for it_support",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "it"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 2 for it_support",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "it"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 3 for it_support",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "it"
+      ]
+    }
+  ],
+  "data_engineer": [
+    {
+      "title": "TODO: add verified course 1 for data_engineer",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "data"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 2 for data_engineer",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "data"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 3 for data_engineer",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "data"
+      ]
+    }
+  ],
+  "mobile_developer": [
+    {
+      "title": "TODO: add verified course 1 for mobile_developer",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "mobile"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 2 for mobile_developer",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "mobile"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 3 for mobile_developer",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "mobile"
+      ]
+    }
+  ],
+  "network_engineer": [
+    {
+      "title": "TODO: add verified course 1 for network_engineer",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "network"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 2 for network_engineer",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "network"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 3 for network_engineer",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "network"
+      ]
+    }
+  ],
+  "legal_counsel": [
+    {
+      "title": "TODO: add verified course 1 for legal_counsel",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "legal"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 2 for legal_counsel",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "legal"
+      ]
+    },
+    {
+      "title": "TODO: add verified course 3 for legal_counsel",
+      "provider": "PLACEHOLDER",
+      "link": "https://example.com",
+      "affiliate_url": "https://example.com",
+      "duration_text": "TBD",
+      "price_text": "TBD",
+      "mode": "self-paced",
+      "type": "course",
+      "tags": [
+        "legal"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+'use client';
+import { useEffect, useState } from 'react';
+export default function QuestionsAdmin(){ const [qs,setQs]=useState<any[]>([]); useEffect(()=>{ (async ()=>{ const r=await fetch('/api/admin/questions'); const j=await r.json(); setQs(j.questions||[]); })(); },[]); return (<div className="card"><h2 className="text-xl font-semibold">Questions Admin</h2><div className="mt-3">{qs.map((q:any,i:number)=>(<div key={i} className="border p-3 rounded mb-2"><div className="font-semibold">{q.skill_name}</div><div className="text-sm text-slate-600">{q.prompt_template}</div></div>))}</div></div>); }
